@@ -15,7 +15,7 @@ Supports 1) tap gesture to close menu 2) pan gesture to open/close menu.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Sources/*.swift'
+  s.source_files = 'Sources/**/*.swift'
 
   # s.frameworks = 'UIKit'
 end
