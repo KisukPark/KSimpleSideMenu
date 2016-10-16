@@ -26,9 +26,9 @@
 import Foundation
 import UIKit
 
-class KSimpleSideMenu: UIViewController {
+open class KSimpleSideMenu: UIViewController {
 
-  override func viewDidLoad() {
+  override open func viewDidLoad() {
     super.viewDidLoad()
     self.addClosingTapGestureRecognizer(to: self)
     self.addClosingPanGestureRecognizer(to: self)

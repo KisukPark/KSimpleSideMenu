@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'KSimpleSideMenu'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Simple and easy-to-use side menu library for swift3, Xcode8, iOS'
   s.description      = <<-DESC
 Simple and easy-to-use side menu library for swift3, iOS.
@@ -15,7 +15,7 @@ Supports 1) tap gesture to close menu 2) pan gesture to open/close menu.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Sources/*.swift'
+  s.source_files = 'Sources/**/*.swift'
 
   # s.frameworks = 'UIKit'
 end
