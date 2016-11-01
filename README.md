@@ -1,9 +1,9 @@
 # KSimpleSideMenu
 
-[![Build Status](https://travis-ci.org/KisukPark/KSimpleSideMenu.svg?branch=master)](https://travis-ci.org/KisukPark/KSimpleSideMenu)
-[![Version](https://img.shields.io/cocoapods/v/KSimpleSideMenu.svg?style=flat)](http://cocoapods.org/pods/KSimpleSideMenu)
-[![License](https://img.shields.io/cocoapods/l/KSimpleSideMenu.svg?style=flat)](http://cocoapods.org/pods/KSimpleSideMenu)
-[![Platform](https://img.shields.io/cocoapods/p/KSimpleSideMenu.svg?style=flat)](http://cocoapods.org/pods/KSimpleSideMenu)
+[![Build Status](https://img.shields.io/travis/KisukPark/KSimpleSideMenu.svg?branch=master&style=flat-square)](https://travis-ci.org/KisukPark/KSimpleSideMenu)
+[![Version](https://img.shields.io/cocoapods/v/KSimpleSideMenu.svg?style=flat-square)](http://cocoapods.org/pods/KSimpleSideMenu)
+[![License](https://img.shields.io/cocoapods/l/KSimpleSideMenu.svg?style=flat-square)](http://cocoapods.org/pods/KSimpleSideMenu)
+[![Platform](https://img.shields.io/cocoapods/p/KSimpleSideMenu.svg?style=flat-square)](http://cocoapods.org/pods/KSimpleSideMenu)
 
 ## Example
 
