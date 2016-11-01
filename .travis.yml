@@ -7,9 +7,7 @@ osx_image: xcode8
 xcode_project: ./Example/Example.xcodeproj # path to your xcodeproj folder
 xcode_scheme: Example
 xcode_sdk: iphonesimulator10.0
-script:
-- xcodebuild -project ./Example/Example.xcodeproj -target Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
-- pod lib lint
+script: xcodebuild -project ./Example/Example.xcodeproj -target Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
 
 # cache: cocoapods
 # podfile: Example/Podfile
