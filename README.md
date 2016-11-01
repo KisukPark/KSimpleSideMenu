@@ -1,6 +1,6 @@
 # KSimpleSideMenu
 
-[![CI Status](http://img.shields.io/travis/kisukpark/KSimpleSideMenu.svg?style=flat)](https://travis-ci.org/kisukpark/KSimpleSideMenu)
+[![CI Status](http://img.shields.io/travis/kisukpark/KSimpleSideMenu.svg?style=flat)](https://travis-ci.org/KisukPark/KSimpleSideMenu)
 [![Version](https://img.shields.io/cocoapods/v/KSimpleSideMenu.svg?style=flat)](http://cocoapods.org/pods/KSimpleSideMenu)
 [![License](https://img.shields.io/cocoapods/l/KSimpleSideMenu.svg?style=flat)](http://cocoapods.org/pods/KSimpleSideMenu)
 [![Platform](https://img.shields.io/cocoapods/p/KSimpleSideMenu.svg?style=flat)](http://cocoapods.org/pods/KSimpleSideMenu)
